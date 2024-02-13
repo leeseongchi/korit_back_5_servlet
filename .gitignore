@@ -2,8 +2,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-test/.metadata
-test/korit_back_5_servlet_study-
+.metadata/
+korit_back_5_servlet_study-/
 
 ### IntelliJ IDEA ###
 .idea/
