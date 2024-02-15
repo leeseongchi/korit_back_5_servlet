@@ -29,7 +29,7 @@ public class CommonFilter extends HttpFilter implements Filter {
 		httpServletResponse.setHeader("Access-Control-Allow-Origin", "*");
 		
 		request.setCharacterEncoding("utf-8");
-		response.setCharacterEncoding("utf-8");
+		response.setCharacterEncoding("utf-8"); 
 		
 		chain.doFilter(request, response);
 	}
