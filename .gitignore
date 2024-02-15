@@ -4,6 +4,7 @@ target/
 !**/src/test/**/target/
 .metadata/
 korit_back_5_servlet_study-/
+DBConnectionMgr.java/
 
 ### IntelliJ IDEA ###
 .idea/
