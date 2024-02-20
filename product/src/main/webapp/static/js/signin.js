@@ -5,7 +5,7 @@ async function handleLoginClick() {
 	const loginUser = {
 		username: inputs[0].value,
 		password: inputs[1].value
-	}
+	};
 	
 	try {
 		const response = await fetch("/product/auth/signin", {
